@@ -1,0 +1,200 @@
+.container{
+    width: 25%;
+    height: 100px;
+    position: relative;
+    border: 5px solid olivedrab;
+    border-radius: 10px;
+    box-shadow: 5px 8px navy;
+    text-align: center;
+    color:ivory;
+    background-color: black;
+    text-shadow: 0.8px 1px red;
+    left: 35%;
+    margin: 15px;
+    padding-top: 10px;
+    font-size: large;
+   
+}
+#containerof4{
+    border: 8px solid navy;
+   display: flex;
+   flex-wrap: wrap;
+}
+#serves{
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 50%;
+    border: 5px solid olivedrab;
+    border-radius: 10px;
+    box-shadow: 5px 8px navy;
+    color: ivory;
+    background-color: black;
+    font-size: large;
+    text-shadow: 0.5px 1px red;
+    position: relative;
+
+}
+#picture{
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 75px;
+    border: 5px solid olivedrab;
+    border-radius: 10px;
+    box-shadow: 5px 8px navy;
+    color: ivory;
+    background-color: black;
+    text-shadow: 0.8px 1px;
+    position: relative;
+}
+img[src$=".jpg"] {
+        width: 90%; 
+        height: 120px; 
+        margin: 10px;
+    }
+
+    
+#serving{ width: 200px;
+        height: 150px;
+        padding: 10px;
+        margin-top: 80px; margin-bottom: 15px; right: 550px;
+        border: 5px solid olivedrab;
+        border-radius: 10px;
+        box-shadow: 5px 8px navy;
+        color: ivory;
+        background-color: black;
+        text-shadow: 0.5px 1px red;
+        position: relative;
+        margin-left: 45%;
+        font-size: large;
+        justify-content: space-evenly;
+        
+    }
+    
+    #served{width: 200px;
+        height: 160px;
+        padding: 10px;  
+        left: 133px;
+        margin-top: 80px; margin-bottom: 25px; 
+        border: 5px solid olivedrab;
+        border-radius: 10px;
+        box-shadow: 5px 8px navy;
+        color: ivory;
+        background-color: black;
+        text-shadow: 0.5px 1px red;
+        position: relative;
+        text-align: center;
+        font-size: large;
+        
+        
+        
+    
+    }
+    
+   
+    
+    #button{
+        border: 3px solid navy;
+        border-radius: 8px;
+        background-color: grey;
+        
+
+        
+    }
+    
+    #fixing{
+        border: 5px solid navy;
+        border-radius: 10px;
+        background-color: black;
+        color: ivory;
+        width: 350px;
+        height: 80px;
+        font-size: large;
+        box-shadow: 5px 6px olivedrab ;
+        left: 35%;
+        position: fixed;
+        bottom: 15px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 5px;
+       
+    }
+    
+    #fix1{
+        margin-left: 3%;
+        margin-top: 10px;
+        font-size:14px;
+        box-shadow: olivedrab;
+        
+    }
+    
+    #fix2{
+        margin-top: -10%;
+         font-size: 14px;
+        margin-left: 60%; 
+        
+        
+    }
+    
+    
+    #final-div{
+        border: 5px solid olivedrab;
+        border-radius: 10px;
+        background-color: black;
+        color: ivory;
+        width: 50%;
+        text-align: center;
+        font-size: x-large;
+        margin-left: 25%;
+    
+    
+    }
+    
+    p{
+    
+        font-size: 14px;
+    
+    }
+    
+     #div1{
+        border: 3px solid navy;
+        border-radius: 1px;
+        /* margin-right: 51%; */
+        margin: 0.5%;
+        width: 47.75%;
+       float: left;
+        
+    
+    }
+    
+    #div2{
+        border: 3px solid navy;
+        border-radius: 1px; 
+        /* margin-left: 51%;
+        margin-top: -35.5%; */
+         margin: 0.5%;  
+         width: 47.75%;
+         float: right; 
+        
+         
+    } 
+    
+    #div3{
+        border: 3px solid navy; 
+        border-radius: 1px;
+        margin: 0.5%;
+        clear: right;
+    
+    }
+    
+    body{
+          background-color: #f0eebb; 
+         
+         /* background: url(./Images/warturtle.webp);
+        background-repeat: no-repeat;
+        background-size: 100%;      */
+    }
